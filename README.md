@@ -19,10 +19,13 @@
 
 #
 
-## 🌱 현재 배우고 있는 것  
+## 🌱 배우고 있는 것
 ▪️PHP<br>
+▪️React<br>
+▪️Ajax<br>
+▪️jQuery<br>
+▪️node.js<br>
 ▪️Git & GitHub<br>
-
 #
 
 ## 📌 나의 목표  
