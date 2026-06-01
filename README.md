@@ -6,37 +6,37 @@
 
 | 이름 | 이소현 |
 | 생년 | 2002.09.12 |
-| 학교 |배재대학교 컴퓨터공학과 (2021.03 ~ 2025.02.) |
+| 학교 | 배재대학교 컴퓨터공학과 (2021.03 ~ 2025.02.) |
 | 연락처 | s2hyeon.lee@gmail.com |
-| GitHub | [GitHub Profile](https://github.com/lsh2912 |
+| GitHub | [GitHub Profile](https://github.com/lsh2912) |
 
 컴퓨터공학 전공을 하였으며 신입 개발자로서 성장 중입니다.<br>
 새로운 기술을 배우는 것을 좋아하고, 다양한 프로젝트를 진행하며 경험을 쌓고 있습니다.<br>
 아직 배워야 할 점이 많지만, 새로운 기술을 익히는 것을 즐기며 다양한 프로젝트를 통해 실력을 키워가고 있습니다.<br>
 
 ##  2. Skills and Tools
-- **주요 활용 언어**
+- **주요 활용 언어** <br>
   대학 전공 과정 및 다수의 프로젝트를 통해 로직 구현 능력을 갖춘 기술입니다.
-    - Java, C, C++, C#, JavaScript
-        - 전공 수업 및 팀 프로젝트에서 지속적으로 활용하여 로직 구현 가능
-        - 웹, 안드로이드, WPF 등 다양한 플랫폼을 기반으로 한 개발 경험 보유
-- **프레임워크 및 UI 기술**
-    프로젝트 목적에 맞춰 적용해 보았거나 실무에서 다뤄본 기술입니다.
-    - **Window/Desktop** (WPF, DevExpress, .NET Framework)
+  - Java, C, C++, C#, JavaScript 등
+    - 전공 수업 및 팀 프로젝트에서 지속적으로 활용하여 로직 구현 가능
+    - 웹, 안드로이드, WPF 등 다양한 플랫폼을 기반으로 한 개발 경험 보유
+- **프레임워크 및 UI 기술** <br>
+  프로젝트 목적에 맞춰 적용해 보았거나 실무에서 다뤄본 기술입니다.
+    - Window/Desktop (WPF, DevExpress, .NET Framework)
         - [인턴십 경험] GUI 구현, 외부 라이브러리(NuGet) 및 DB 연동 프로젝트 수행
-    - **Frontend** (JSP, Bootstrap)
+    - Frontend (JSP, Bootstrap)
         - 웹 표준 기반의 페이지 구성 및  반응형 UI 제작 경험
-    - **Backend** (Spring Boot, Spring Framework, Mybatis, RESTful API)
+    - Backend (Spring Boot, Spring Framework, Mybatis, RESTful API)
         - 프로젝트 및 비교과 과정 학습을 통한 백엔드 구조 이해 및 기본 기능 구현
-- **데이터베이스 및 서버**
-    데이터 관리 및 서버 환경 구축 경험이 있는 기술입니다.
-    - **RDBMS** (Oracle, MySQL, MariaDB, SQLite)
+- **데이터베이스 및 서버** <br>
+  데이터 관리 및 서버 환경 구축 경험이 있는 기술입니다.
+    - RDBMS (Oracle, MySQL, MariaDB, SQLite)
         - 프로젝트 내 DB 설계 및 SQL 쿼리 작성, 관리 도구 활용 가능
-    - **Sever/OS** (Apache Tomcat, Linux/Ubuntu)
+    - Sever/OS (Apache Tomcat, Linux/Ubuntu)
         - WAS(Tomcat)를 이용한 웹 서비스 구동 및 리눅스 기본 명령어 활용 환경 구성 경험
 - **개발 도구**
-    - **IDEs**: Visual Studio, Eclipse, Android Studio (UI 및 기능 구현)
-    - **Tools**: GitHub를 통한 코드 관리, VirtualBox
+    - IDEs: Visual Studio, Eclipse, Android Studio (UI 및 기능 구현)
+    - Tools: GitHub를 통한 코드 관리, VirtualBox
  
 <!--
 | **분야**              | **많이 해본 기술** | **경험해본 기술** |
@@ -47,6 +47,7 @@
 | **Languages** | ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
  | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat) |
 | **Tools & IDEs** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
 -->
 <br>
 
