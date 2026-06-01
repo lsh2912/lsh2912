@@ -15,18 +15,13 @@
 아직 배워야 할 점이 많지만, 새로운 기술을 익히는 것을 즐기며 다양한 프로젝트를 통해 실력을 키워가고 있습니다.<br>
 
 ##  2. Skills and Tools
-주로 사용하거나 과거에 사용했던 기술입니다.
 - **주요 활용 언어**
-    
-    대학 전공 과정 및 다수의 프로젝트를 통해 로직 구현 능력을 갖춘 기술입니다.
-    
+  대학 전공 과정 및 다수의 프로젝트를 통해 로직 구현 능력을 갖춘 기술입니다.
     - Java, C, C++, C#, JavaScript
         - 전공 수업 및 팀 프로젝트에서 지속적으로 활용하여 로직 구현 가능
         - 웹, 안드로이드, WPF 등 다양한 플랫폼을 기반으로 한 개발 경험 보유
 - **프레임워크 및 UI 기술**
-    
     프로젝트 목적에 맞춰 적용해 보았거나 실무에서 다뤄본 기술입니다.
-    
     - **Window/Desktop** (WPF, DevExpress, .NET Framework)
         - [인턴십 경험] GUI 구현, 외부 라이브러리(NuGet) 및 DB 연동 프로젝트 수행
     - **Frontend** (JSP, Bootstrap)
@@ -34,9 +29,7 @@
     - **Backend** (Spring Boot, Spring Framework, Mybatis, RESTful API)
         - 프로젝트 및 비교과 과정 학습을 통한 백엔드 구조 이해 및 기본 기능 구현
 - **데이터베이스 및 서버**
-    
     데이터 관리 및 서버 환경 구축 경험이 있는 기술입니다.
-    
     - **RDBMS** (Oracle, MySQL, MariaDB, SQLite)
         - 프로젝트 내 DB 설계 및 SQL 쿼리 작성, 관리 도구 활용 가능
     - **Sever/OS** (Apache Tomcat, Linux/Ubuntu)
