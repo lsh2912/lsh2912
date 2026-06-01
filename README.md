@@ -28,10 +28,10 @@
 <br>
 역설계를 통한 전파분석 소프트웨어 GUI 개발
 <br>
-개발기간 : 2024.09.23-11.22
-핵심 역할 :
-Language : C#, 일부 C++
-Skill : WPF, DevExpress, MFC DLL 연동, SQLite(SQLiteSpy 사용)
+개발기간 : 2024.09.23-11.22 <br>
+핵심 역할 : <br>
+Language : C#, 일부 C++ <br>
+Skill : WPF, DevExpress, MFC DLL 연동, SQLite(SQLiteSpy 사용) <br>
 프로젝트 상세 설명
 
 #
