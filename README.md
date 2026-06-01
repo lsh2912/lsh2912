@@ -1,5 +1,3 @@
-# SOHYEON'S github HOME
-
 ## 1. INTRODUCE
 
 안녕하세요. 이소현입니다.
