@@ -1,9 +1,19 @@
-# 👋 안녕하세요!
+# SOHYEON'S github HOME
 
-**컴퓨터공학 전공**하였으며 신입 개발자로서 성장 중입니다.<br>
+## 1. INTRODUCE
+
+| 이름 | 이소현 |
+| 연락처 | s2hyeon.lee@gmail.com |
+| GitHub | [GitHub Profile](https://github.com/lsh2912) |
+
+📅 2002.09.12
+
+🎓 배재대학교 컴퓨터공학과 (2021.03 ~ 2025.02.)
+
+안녕하세요. 이소현입니다.
+컴퓨터공학 전공을 하였으며 신입 개발자로서 성장 중입니다.<br>
 새로운 기술을 배우는 것을 좋아하고, 다양한 프로젝트를 진행하며 경험을 쌓고 있습니다.<br>
 아직 배워야 할 점이 많지만, 새로운 기술을 익히는 것을 즐기며 다양한 프로젝트를 통해 실력을 키워가고 있습니다.<br>
-특히 **백엔드 개발**과 **풀스택 개발**에 관심을 가지고 있으며, 두 분야를 모두 아우를 수 있는 개발자를 목표로 하고 있습니다.<br>
 
 <br>
 
@@ -46,7 +56,5 @@ Skill : WPF, DevExpress, MFC DLL 연동, SQLite(SQLiteSpy 사용) <br>
 
 <br>
 
-## 📬 연락처  
-📧 이메일: s2hyeon.lee@gmail.com <br>
-📘 깃허브: [GitHub Profile](https://github.com/lsh2912)
+
 
