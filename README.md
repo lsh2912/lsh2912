@@ -5,6 +5,7 @@
 아직 배워야 할 점이 많지만, 새로운 기술을 익히는 것을 즐기며 다양한 프로젝트를 통해 실력을 키워가고 있습니다.<br>
 특히 **백엔드 개발**과 **풀스택 개발**에 관심을 가지고 있으며, 두 분야를 모두 아우를 수 있는 개발자를 목표로 하고 있습니다.<br>
 
+<br>
 
 ##  🛠️ 기술 스택  
 주로 사용하거나 과거에 사용했던 기술입니다.
@@ -18,7 +19,7 @@
  | **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat) |
 | **Tools & IDEs** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-
+<br>
 
 ## 📝 프로젝트
 그간 진행했던 프로젝트들 입니다!
@@ -32,19 +33,8 @@
 핵심 역할 : <br>
 Language : C#, 일부 C++ <br>
 Skill : WPF, DevExpress, MFC DLL 연동, SQLite(SQLiteSpy 사용) <br>
+
 프로젝트 상세 설명
-
-
-
-## 📬 연락처  
-📧 이메일: s2hyeon.lee@gmail.com
-📘 깃허브: [GitHub Profile](https://github.com/lsh2912)
-
-
-
-
-#### Recent articles
-
 | Title | Published On |
 | ----- | ------------ |
 | [Deferred teardown closure in Go testing](http://rednafi.com/go/deferred_teardown_closure/) | Fri, 28 Mar 2025 |
@@ -52,7 +42,16 @@ Skill : WPF, DevExpress, MFC DLL 연동, SQLite(SQLiteSpy 사용) <br>
 | [Nil comparisons and Go interface](http://rednafi.com/go/nil_interface_comparison/) | Wed, 12 Mar 2025 |
 | [Stacked middleware vs embedded delegation in Go](http://rednafi.com/go/middleware_vs_delegation/) | Thu, 06 Mar 2025 |
 | [Why does Go's io.Reader have such a weird signature?](http://rednafi.com/go/io_reader_signature/) | Sat, 08 Feb 2025 |
-</div>
+
+
+<br>
+
+## 📬 연락처  
+📧 이메일: s2hyeon.lee@gmail.com
+📘 깃허브: [GitHub Profile](https://github.com/lsh2912)
+
+
+
 
 **lsh2912/lsh2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
