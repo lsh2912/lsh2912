@@ -29,6 +29,7 @@ Notion : <a href="https://app.notion.com/p/Introduce-21934930e1cc805ba44fc70d58a
 | 기업용 전파분석 소프트웨어 역설계 및 GUI 개선 | `24.08 ~ 24.12` | 기존 프로젝트 재설계, 핵심 로직 구현 및 사용성 개선 진행 | `C#`, `C++`, `WPF`, `DevExpress` `SQLite` | [상세 보기](노션_또는_리드미_링크) |
 | **[프로젝트 명 추가]** | `2X.XX ~ 2X.XX` | 어떤 문제를 해결하는 어떤 서비스인지 핵심만 간략히 작성 | `Java`, `Spring` | [상세 보기](링크) |
 
+<br>
 
 ## Current Activity
 - 정보처리기사 실기 준비 중
