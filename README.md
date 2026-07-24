@@ -35,3 +35,9 @@ Notion : <a href="https://app.notion.com/p/Introduce-21934930e1cc805ba44fc70d58a
 -  전공 지식 재학습 및 실무 감각 복구 중
 
 <br>
+
+## 📈 GitHub Stats<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lsh2912&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh2912&layout=compact&theme=transparent" height="150" alt="Top Languages" /></div>
