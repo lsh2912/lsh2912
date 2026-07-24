@@ -1,76 +1,37 @@
-## 1. 자기소개
+## Introduce
 
 안녕하세요. 꾸준한 학습을 통해 어제보다 오늘 더 성장하는 개발자 이소현입니다.<br>
-새로운 기술을 익히는 것을 즐기며, 데스크톱 애플리케이션부터 웹 프론트엔드, 백엔드 로직까지 다양한 환경에서 프로젝트를 경험하여 넓은 시야를 갖추었습니다. 단순히 코드를 작성하는 것을 넘어, '왜 이 기술을 써야 하는지' 고민하며 탄탄한 기본기를 바탕으로 문제를 해결해 나가는 개발자를 목표로 하고 있습니다.
+새로운 기술을 익히는 것을 즐기며, 데스크톱 애플리케이션부터 웹 프론트엔드, 백엔드 로직까지 다양한 환경에서 프로젝트를 경험하여 넓은 시야를 갖추었습니다.<br>
+단순히 코드를 작성하는 것을 넘어, '왜 이 기술을 써야 하는지' 고민하며 탄탄한 기본기를 바탕으로 문제를 해결해 나가는 개발자를 목표로 하고 있습니다.
 
-- **연락처:** s2hyeon.lee@gmail.com
-- **GitHub:** https://github.com/lsh2912
-- **학력:** 배재대학교 컴퓨터공학과 (2021.03 ~ 2025.02)
-- **자격증:** 정보처리기사 (필기 합격 - 2025.02 / 실기 준비 중)
-
-##  2. 기술 스택
-- **주요 활용 언어** <br>
-  대학 전공 과정 및 프로젝트를 통해 로직 구현의 기본기즐 다졌습니다.
-  - Java, C, C++, C#, JavaScript 등
-    - 전공 수업 및 팀 프로젝트에서 지속적으로 활용
-    - 웹, 안드로이드, WPF 등 다양한 플랫폼을 기반의 개발 경험 보유
-- **프레임워크 및 UI 기술** <br>
-  프로젝트 목적에 맞춰 적절한 아키텍처와 화면 구성을 고민하고 적용하였습니다.
-    - Window/Desktop (WPF, DevExpress, .NET Framework)
-        - [인턴십 경험] 사용자 친화적 GUI 구현, 외부 라이브러리(NuGet) 및 DB 연동 실무 수행
-    - Frontend (JSP, Bootstrap)
-        - 웹 표준 기반의 페이지 구성 및  반응형 UI 제작 경험
-    - Backend (Spring Boot, Spring Framework, Mybatis, RESTful API)
-        - 백엔드 구조(MVC) 이해 및 RESTful API를 활용한 클라이언트-서버 데이터 통신 구현
-- **데이터베이스 및 서버** <br>
-  데이터 모델링 및 서버 환경 구축에 대한 이해도를 갖추고 있습니다.
-    - RDBMS (Oracle, MySQL, MariaDB, SQLite)
-        - 프로젝트 요구사항에 맞춘 DB 설계 및 SQL 쿼리 작성, 관리 도구 활용
-    - Sever/OS (Apache Tomcat, Linux/Ubuntu)
-        - WAS(Tomcat)를 이용한 웹 서비스 구동 및 리눅스 CLI 환경에서 기본 명령어 활용 경험
-- **개발 도구 및 협업도구**
-    - 통합 개발 환경(IDE): Visual Studio, Eclipse, Android Studio
-    - 버전 관리: Git, GitHub (코드 형상 관리)
-    - 기타 도구: VirtualBox
+## Contact
+Email : <a href="mailto:s2hyeon.lee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <br>
+Github : <a href="https://github.com/lsh2912"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <br>
+Notion : <a href="https://app.notion.com/p/Introduce-21934930e1cc805ba44fc70d58a2730a?source=copy_link"><img src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <br>
 
-## 3. 프로젝트 및 활동
-그간 진행했던 프로젝트들 입니다!
+## Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Language** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> |
+| **Frontend & Client** | <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=java&logoColor=white"> |
+| **Backend & Server** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"> |
+| **Database** | <img src="https://img.shields.io/badge/Oracle-F00000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"> |
+</div>
+
 <br>
 
-**[IPP 일학습 병행] 기업용 전파분석 소프트웨어 역설계 및 GUI 개선**
-<br>배재대학교 IPP 사업단 | 2024.08 ~ 2024.12
-> 프로그램을 분석 및 역설계하여, 요구사항 정의부터 UI/UX 개선, 핵심 로직 구현까지 소프트웨어 개발의 전체 프로세스를 주도적으로 진행하였습니다.
-- 사용 기술: C#, C++, WPF, DevExpress,  MFC DLL 연동, SQLite(SQLiteSpy 사용)
-- 상세 역할 및 학습 성과
-  - **프로젝트 재설계:** 기존 프로그램의 동작을 분석해 요구사항 정의서를 도출하고, 이를 바탕으로 SW 구조 및 UI/UX 설계
-  - **핵심 로직 구현 및 사용성 개선 구현:** 도출된 요구사항을 바탕으로 프로그램의 핵심 로직을 C# 기반으로 구현
-  - **이종 언어 모듈 연동:** C++ 기반의 MFC DLL을 C# WPF 환경에 연동하여 기존 모듈의 재사용성 확보
-  - **로컬 DB 구축:** SQLite를 활용하여 분석 데이터를 로컬에 저장하고 조회하는 데이터 관리 기능 구현
- 
-<!-- 나중에 추가할 프로젝트 내용 작성
-[학부 프로젝트] (여기에 향후 프로젝트명 추가)
-<br>배재대학교 전공 과정 | 202X.XX ~ 202X.XX
-<br>프로젝트에 대한 핵심적인 한 줄 설명을 적어주세요. (예: Spring Boot를 활용한 OOO 서비스 API 구축)
-<br>사용 기술: Java, Spring Boot, MySQL 등 사용한 기술 나열
-<br>상세 역할 및 성과
-<br>어떤 기능을 구현했는지 구체적으로 작성
-<br>마주친 문제를 어떻게 해결했는지 (트러블슈팅 경험) 작성
+## Projects
+| 프로젝트명 | 기간 | 핵심 요약 | 사용 기술 | 상세 보기 |
+| :--- | :---: | :--- | :---: | :---: |
+| 기업용 전파분석 소프트웨어 역설계 및 GUI 개선 | `24.08 ~ 24.12` | 기존 프로젝트 재설계, 핵심 로직 구현 및 사용성 개선 진행 | `C#`, `C++`, `WPF`, `DevExpress` `SQLite` | [상세 보기](노션_또는_리드미_링크) |
+| **[프로젝트 명 추가]** | `2X.XX ~ 2X.XX` | 어떤 문제를 해결하는 어떤 서비스인지 핵심만 간략히 작성 | `Java`, `Spring` | [상세 보기](링크) |
 
- -->
 
-## 4. 학습
+## Current Activity
+- 정보처리기사 실기 준비 중
+-  전공 지식 재학습 및 실무 감각 복구 중
 
-**"기본기가 탄탄한 개발자가 되기 위해 꾸준히 학습하고 있습니다."**
-
-- **CS 전공 지식 및 실무 기초 다지기 (2025 ~ 현재)**
-  - 운영체제, 네트워크, 데이터베이스 등 CS 핵심 과목 재학습 및 정보처리기사 실기 시험 대비
-- **알고리즘 및 문제 해결 능력 향상**
-  - 논리적인 코드 작성을 위해 꾸준히 알고리즘 문제 풀이 진행
-- **개인 프로젝트 및 기술 복습 진행 중**
-  - C언어 및 WPF 기반 데스크톱 환경 실무 감각 복구 및 백엔드 기술 학습
 <br>
-
-
-
