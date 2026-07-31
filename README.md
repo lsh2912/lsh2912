@@ -27,7 +27,6 @@ Notion : <a href="https://app.notion.com/p/Introduce-21934930e1cc805ba44fc70d58a
 | 프로젝트명 | 기간 | 핵심 요약 | 사용 기술 | 상세 보기 |
 | :--- | :---: | :--- | :---: | :---: |
 | 기업용 전파분석 소프트웨어 역설계 및 GUI 개선 | `24.08 ~ 24.12` | 기존 프로젝트 재설계, 핵심 로직 구현 및 사용성 개선 진행 | `C#`, `C++`, `WPF`, `DevExpress` `SQLite` | [상세 보기](https://github.com/lsh2912/IPP_PBL_wpf) |
-| 학사 일정 기반 다이어리 앱 개발 | `24.09 ~ 24.12` | 학생들의 학사 일정과 개인 일정을 통합하여 관리할 수 있는 앱 개발 프로젝트 진행 | `Android Studio`, `Java`, `SQLite` | [상세 보기](https://github.com/lsh2912/2024_DearDiary) |
 
 <br>
 
